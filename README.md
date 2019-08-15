@@ -17,3 +17,4 @@ npm start
 
 ## Run App
 Open index.html
+RUN LIKE NORMAL
